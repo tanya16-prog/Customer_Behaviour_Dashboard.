@@ -41,4 +41,4 @@ Purchase Frequency
 Order Details
 Sales Transactions
 
-url of Screenshot--
+url of Screenshot-- https://github.com/tanya16-prog/Customer_Behaviour_Dashboard./blob/main/Screenshot.jpeg
